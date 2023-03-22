@@ -80,7 +80,7 @@ OPRATOR'<P>'
             ?>
 BERIKUT HASIL OUTPUTNYA'<P>'
 
-![img]Screenshot/OPRATOR.png
+![img](Screenshot/OPRATOR.png)
 
 
 KONDISI IF '<P>'
