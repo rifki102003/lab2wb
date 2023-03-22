@@ -67,7 +67,7 @@ MEMBUAT FORM INPUT '<P>'
             </html>
 BERIKUT HASIL OUTPUTNYA'<P>'
 
-![img]Screenshot/FORM.png
+![img](Screenshot/FORM.png)
 
 
 OPRATOR'<P>'
