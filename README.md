@@ -96,7 +96,7 @@ KONDISI IF '<P>'
             ?>
 BERIKUT HASIL OUTPUTNYA'<P>'
 
-![img]Screenshot/IF.png
+![img](Screenshot/IF.png)
 
 KONDISI SWITCH'<P>'
 
