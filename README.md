@@ -43,7 +43,7 @@ BERIKUT HASIL DARI Predefine Variable $_GET'<P>'
 
 HASIL OUTPUTNYA'<P>'
 
-![img]Screenshot/LATIHAN.png
+![img](Screenshot/LATIHAN.png)
 
 MEMBUAT FORM INPUT '<P>'
 
