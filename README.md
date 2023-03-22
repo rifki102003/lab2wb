@@ -116,7 +116,7 @@ KONDISI SWITCH'<P>'
                 echo "Sabtu";
                 ?>
 BERIKUT HASIL OUTPUTNYA'<P>'
-![img]Screenshot/SWITCH.png
+![img](Screenshot/SWITCH.png)
 
 
 PERULANGAN FOR'<P>'
