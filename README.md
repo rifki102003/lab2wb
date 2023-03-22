@@ -2,7 +2,8 @@
 ## PRAKTIKUM
 ### PEMOGRAMAN WEB
 BERIKUT HASIL DARI PRAKTIKUM
-<p>PHP DASAR DENGAN VARIABLE</p>
+            
+            <p>PHP DASAR DENGAN VARIABLE</p>
             <!DOCTYPE html>
             <html lang="en">
             <head>
@@ -18,7 +19,7 @@ BERIKUT HASIL DARI PRAKTIKUM
             </html>
 Hasil nya'<p>'
 
-![img]Screenshot/PHPDASAR.png
+![img](Screenshot/PHPDASAR.png)
 
 BERIKUT HASIL DARI Predefine Variable $_GET'<P>'
 
