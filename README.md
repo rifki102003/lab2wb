@@ -133,7 +133,7 @@ PERULANGAN FOR'<P>'
                 ?>
 BERIKUT HASIL OUTPUT NYA'<P>
 
-![img]Screenshot/FOR.png
+![img](Screenshot/FOR.png)
 
 PERULANGAN WHILE'<P>'
 
@@ -147,7 +147,7 @@ PERULANGAN WHILE'<P>'
                 ?>
 BERIKUT HASIL OUTPUTNYA'<P>'
 
-![img]Screenshot/WHILE.png
+![img](Screenshot/WHILE.png)
 
 PERULANGAN DOWHILE'<P>'
 
