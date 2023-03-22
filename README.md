@@ -161,6 +161,6 @@ PERULANGAN DOWHILE'<P>'
                 ?>
 BERIKUT HASIL OUTPUTNYA'<p>'
 
-![img]Screenshot/DOWHILE.png
+![img](Screenshot/DOWHILE.png)
 
 
